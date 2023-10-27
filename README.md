@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Ehsan Mashayekh
-a Nodejs family dev:<br>-Nextjs<br>-React<br>-Expressjs<br>now working on:<br>-memory controller for old CNC Machine that supports RS232 protocol<br>-Jakhoob WebApplication
+a Nodejs family dev:<br>-Nextjs<br>-React<br>-Expressjs<br>now working on:<br>-memory controller for old CNC Machine
 
 
 ## 🌐 Socials:
